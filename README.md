@@ -1,5 +1,7 @@
 # Image Change Inspector
 
+![Actual browser screenshot of the generated synthetic-fixture report](preview.jpg)
+
 Local Python computer-vision learning tool for inspecting changes between two **already aligned**, equal-sized images. Produces a responsive offline HTML report, raw difference image, binary mask, overlay and reproducible JSON metrics. No uploads, cloud services or model downloads.
 
 ## Status and evidence
