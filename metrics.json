@@ -1,0 +1,15 @@
+{
+  "threshold": 25,
+  "width": 640,
+  "height": 420,
+  "changed_pixels": 14400,
+  "total_pixels": 268800,
+  "changed_fraction": 0.05357142857142857,
+  "mean_absolute_rgb_difference": 7.9239508928571425,
+  "changed_bbox_exclusive": [
+    340,
+    160,
+    460,
+    280
+  ]
+}
